@@ -1,6 +1,6 @@
 # PSR-2 .editorconfig
 
-`.editorconfig` PSR-2/Composer compatible PHP projects
+`.editorconfig` for PSR-2/Composer compatible PHP projects
 
 For more informations, visit: http://www.php-fig.org/psr/psr-2/
 
