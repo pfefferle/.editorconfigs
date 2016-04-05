@@ -8,10 +8,16 @@ A list of .editorconfig files, optimized for several projects
 
 ## Installation
 
-Installation with git:
+with wget:
 
 ```bash
-$ git clone https://github.com/pfefferle/.editorconfigs.git -- <project name>/.editorconfig
+$ wget https://raw.githubusercontent.com/pfefferle/.editorconfigs/master/<project name>/.editorconfig
+```
+
+with curl:
+
+```bash
+$ curl -o .editorconfig https://raw.githubusercontent.com/pfefferle/.editorconfigs/master/<project name>/.editorconfig
 ```
 
 ## License
