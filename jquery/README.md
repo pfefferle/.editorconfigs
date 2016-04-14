@@ -6,8 +6,14 @@ For more informations, visit: http://bugs.jquery.com/ticket/11777
 
 ## Installation
 
-Installation with git:
+with wget:
 
 ```bash
-$ git clone https://github.com/pfefferle/.editorconfigs.git -- jquery/.editorconfig
+$ wget https://raw.githubusercontent.com/pfefferle/.editorconfigs/master/jquery/.editorconfig
+```
+
+with curl:
+
+```bash
+$ curl -o .editorconfig https://raw.githubusercontent.com/pfefferle/.editorconfigs/master/jquery/.editorconfig
 ```
